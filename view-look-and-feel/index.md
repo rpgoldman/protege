@@ -76,3 +76,7 @@ These buttons offer the following functionality:
 * **Enter/Return** - If a row is selected, pressing Enter/Return is a shortcut for pressing the edit button for that row.  
 
 * **Ctrl+Delete (Cmd+Delete)** - If a row is selected, then pressing Ctrl+Delete (Cmd+Delete on a Mac) is a shortcut for pressing the Delete button.
+
+## Tree View Keyboard Shortcuts
+
+* **Ctrl+Return (Cmd+Return)** - If a node is selected, expand the entire subtree under that node.
